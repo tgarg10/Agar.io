@@ -1,7 +1,7 @@
 ## Description:
 🌟 Dive into the world of multiplayer gaming and challenge your friends with this exciting Agar.io-inspired game built in Racket using the power of the Big-Bang library! 🎮
 
-![image](https://github.com/tgarg10/Agar.io/assets/129296453/47352536-17b2-41c0-88e3-1171a61841fc)
+![image](https://github.com/tgarg10/Agar.io/assets/129296453/47352536-17b2-41c0-88e3-1171a61841fc)[width=100px]
 
 ## 🍪 What's Agar.io?
 Agar.io is a popular online multiplayer game where players control cells in a petri dish, consuming smaller cells to grow larger while avoiding being eaten by larger ones. It's simple yet addictive, and now you can create your own version of this game in Racket!
